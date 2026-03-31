@@ -1,2 +1,0 @@
-# r-learn
-Learning R
